@@ -1,0 +1,1 @@
+documento de ejemplo 2 para el reto de git 1 donde se repasa el uso de git
